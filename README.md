@@ -15,6 +15,14 @@ The primary purpose of this repository is to provide a platform for our members 
 
 2. Contributions: After solving a problem, club members can contribute by committing their solutions to the repository. The solutions may include code, explanations, and any additional resources.
 
+Probelm Statement ID's with Links:
+Ps1 : https://leetcode.com/problems/move-zeroes/
+Ps2 : https://leetcode.com/problems/merge-intervals/
+Ps3 : https://leetcode.com/problems/largest-rectangle-in-histogram/
+Ps4 : https://leetcode.com/problems/4sum/
+Ps5 : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+Ps6 : https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+Ps7 : https://leetcode.com/problems/next-permutation/
 
  ⚙️ Getting Started
 
